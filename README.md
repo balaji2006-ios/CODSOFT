@@ -43,5 +43,5 @@ Language Processing techniques.
 ---
 
 ## 👤 Author
-**Balaji D**  
+**Maniganda Balaji D**  
 CodSoft Machine Learning Intern
