@@ -31,6 +31,3 @@ Machine Learning Internship at CodSoft.
 
 ---
 
-
-
-Done? Tell me and we'll start Task 2! 🚀Claude Fable 5 is currently unavailable.
