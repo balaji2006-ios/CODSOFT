@@ -1,33 +1,47 @@
-# CODSOFT
-Machine Learning Internship
 
-This repository contains all tasks completed during my 
-Machine Learning Internship at CodSoft.
+# 🎬 Movie Genre Classification
+
+This project predicts the genre of a movie based on its 
+plot description using Machine Learning and Natural 
+Language Processing techniques.
 
 ---
-## ✅ Tasks Completed
 
-### Task 1 — Movie Genre Classification
-- **Description:** Built a model to predict movie genres 
-  from plot summaries
+## 📋 Project Overview
 - **Dataset:** 54,214 movies across 27 genres
-- **Techniques:** TF-IDF Vectorization, Text Preprocessing,
-  Ensemble Learning
-- **Models Used:** Naive Bayes, Logistic Regression, SVM
-- **Best Accuracy:** 60.52% (Ensemble Model)
-- **File:** Task1_Movie_Genre_Classification.ipynb
+- **Task:** Predict movie genre from plot summary
+- **Best Model:** Ensemble (NB + LR + SVM)
+- **Final Accuracy:** 60.52%
 
 ---
 
 ## 🛠️ Technologies Used
 - Python
 - Google Colab
-- Scikit-learn
 - Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+- Numpy
+- Scikit-learn
+- TF-IDF Vectorization
 - NLTK
+- Matplotlib & Seaborn
 
 ---
 
+## 🤖 Models Used
+| Model | Accuracy |
+|-------|----------|
+| Naive Bayes | 55.77% |
+| Logistic Regression | 53.61% |
+| SVM | 55.93% |
+| **Ensemble (Best)** | **60.52%** |
+
+---
+
+## 📁 File
+- `Task1_Movie_Genre_Classification.ipynb`
+
+---
+
+## 👤 Author
+**Balaji D**  
+CodSoft Machine Learning Intern
