@@ -9,7 +9,6 @@ Internship at CodSoft.
 - **Name:** Maniganda Balaji D
 - **Internship:** Machine Learning
 - **Organization:** CodSoft
-- **GitHub:** https://github.com/balaji2006-ios/CODSOFT
 
 ---
 
