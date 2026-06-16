@@ -1,33 +1,28 @@
+# CodSoft Machine Learning Internship
 
-# 🎬 Movie Genre Classification
-
-This project predicts the genre of a movie based on its 
-plot description using Machine Learning and Natural 
-Language Processing techniques.
+All tasks completed during my Machine Learning 
+Internship at CodSoft.
 
 ---
 
-## 📋 Project Overview
+## 👤 Intern Details
+- **Name:** Maniganda Balaji D
+- **Internship:** Machine Learning
+- **Organization:** CodSoft
+- **GitHub:** https://github.com/balaji2006-ios/CODSOFT
+
+---
+
+## ✅ Tasks Completed
+
+### Task 1 — Movie Genre Classification
 - **Dataset:** 54,214 movies across 27 genres
 - **Task:** Predict movie genre from plot summary
+- **Models:** Naive Bayes, Logistic Regression, SVM
 - **Best Model:** Ensemble (NB + LR + SVM)
 - **Final Accuracy:** 60.52%
+- **File:** Task1_Movie_Genre_Classification.ipynb
 
----
-
-## 🛠️ Technologies Used
-- Python
-- Google Colab
-- Pandas
-- Numpy
-- Scikit-learn
-- TF-IDF Vectorization
-- NLTK
-- Matplotlib & Seaborn
-
----
-
-## 🤖 Models Used
 | Model | Accuracy |
 |-------|----------|
 | Naive Bayes | 55.77% |
@@ -37,11 +32,43 @@ Language Processing techniques.
 
 ---
 
-## 📁 File
-- `Task1_Movie_Genre_Classification.ipynb`
+### Task 2 — Credit Card Fraud Detection
+- **Dataset:** 1.4M+ real credit card transactions
+- **Task:** Detect fraudulent transactions
+- **Models:** Logistic Regression, Decision Tree,
+  Random Forest, XGBoost
+- **Best Model:** XGBoost
+- **Accuracy:** 98%
+- **ROC AUC Score:** 0.8057
+- **Fraud Recall:** 63%
+- **File:** Task2_Credit_Card_Fraud_Detection.ipynb
+
+| Model | Accuracy |
+|-------|----------|
+| Logistic Regression | 98.03% |
+| Decision Tree | 94.83% |
+| Random Forest | 99.60% |
+| **XGBoost (Best)** | **98% (ROC: 0.8057)** |
 
 ---
 
-## 👤 Author
-**Maniganda Balaji D**  
-CodSoft Machine Learning Intern
+## 🛠️ Technologies Used
+- Python
+- Google Colab
+- Pandas & Numpy
+- Scikit-learn
+- XGBoost
+- SMOTE (imbalanced-learn)
+- TF-IDF Vectorization
+- NLTK
+- Matplotlib & Seaborn
+
+---
+
+## 📁 Repository Structure
+```
+CODSOFT/
+├── README.md
+├── Task1_Movie_Genre_Classification.ipynb
+└── Task2_Credit_Card_Fraud_Detection.ipynb
+```
