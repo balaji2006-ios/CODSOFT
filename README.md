@@ -64,10 +64,3 @@ Internship at CodSoft.
 
 ---
 
-## 📁 Repository Structure
-```
-CODSOFT/
-├── README.md
-├── Task1_Movie_Genre_Classification.ipynb
-└── Task2_Credit_Card_Fraud_Detection.ipynb
-```
