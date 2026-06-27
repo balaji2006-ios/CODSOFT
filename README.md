@@ -1,5 +1,4 @@
 # CodSoft Machine Learning Internship
-
 All tasks completed during my Machine Learning 
 Internship at CodSoft.
 
@@ -10,11 +9,12 @@ Internship at CodSoft.
 - **Internship:** Machine Learning
 - **Organization:** CodSoft
 
+
 ---
 
 ## ✅ Tasks Completed
 
-### Task 1 — Movie Genre Classification
+### 🎬 Task 1 — Movie Genre Classification
 - **Dataset:** 54,214 movies across 27 genres
 - **Task:** Predict movie genre from plot summary
 - **Models:** Naive Bayes, Logistic Regression, SVM
@@ -31,7 +31,7 @@ Internship at CodSoft.
 
 ---
 
-### Task 2 — Credit Card Fraud Detection
+### 💳 Task 2 — Credit Card Fraud Detection
 - **Dataset:** 1.4M+ real credit card transactions
 - **Task:** Detect fraudulent transactions
 - **Models:** Logistic Regression, Decision Tree,
@@ -51,6 +51,33 @@ Internship at CodSoft.
 
 ---
 
+### 📊 Task 3 — Customer Churn Prediction
+- **Dataset:** 10,000 bank customers
+- **Task:** Predict if customer will leave the bank
+- **Models:** Logistic Regression, Random Forest,
+  Gradient Boosting, XGBoost
+- **Best Model:** XGBoost
+- **Accuracy:** 82.55%
+- **ROC AUC Score:** 0.7953
+- **Churn Recall:** 75%
+- **File:** Task3_Customer_Churn_Prediction.ipynb
+
+| Model | Accuracy | ROC AUC |
+|-------|----------|---------|
+| Logistic Regression | 70.65% | 0.6982 |
+| Random Forest | 86.45% | 0.7004 |
+| Gradient Boosting | 86.35% | 0.7161 |
+| **XGBoost (Best)** | **82.55%** | **0.7953** |
+
+Top Churn Factors:
+1. NumOfProducts  — 31.69%
+2. IsActiveMember — 15.44%
+3. Age            — 14.46%
+4. Geography      — 7.65%
+5. Balance        — 7.14%
+
+---
+
 ## 🛠️ Technologies Used
 - Python
 - Google Colab
@@ -64,3 +91,4 @@ Internship at CodSoft.
 
 ---
 
+## 📁 Repository Structure
